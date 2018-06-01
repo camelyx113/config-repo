@@ -1,7 +1,7 @@
-spring cloud 配置中心
+1.spring cloud 配置中心
 // 开发环境
-config-client-dev.properties
+2.config-client-dev.properties
 // 测试环境
-config-client-test.properties
+3.config-client-test.properties
 // 生产环境
-config-client-prod.properties
+4.config-client-prod.properties
